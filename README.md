@@ -1,7 +1,6 @@
 # 🌱 MyFarmWise Consultant: Region-Aware, Explainable AI for Crop, Fertilizer & Disease Advisory
 
 **B.Tech CSE (AI/ML) Major Project**  
-**Faculty Demonstration Date:** 29 October 2026 (Week 6 Progress Review)  
 **Institution:** JSS Academy of Technical Education, Noida  
 **Department:** Computer Science & Engineering (Artificial Intelligence & Machine Learning)  
 **Supervisor:** Mr. Harshit (Assistant Professor)  
@@ -152,9 +151,9 @@ curl http://127.0.0.1:5000/api/health
 
 ---
 
-## 🎯 Faculty Demonstration Walkthrough (Step-by-Step)
+## 🎯 System Walkthrough (Step-by-Step)
 
-For the **29 October 2026** project progress review:
+Follow these steps to explore all subsystems:
 
 1. **Open Dashboard (`http://localhost:8501`)**:
    - Present the **🏠 Home Dashboard**, showing the project objectives, paradigm comparison table, and the four-tier architectural diagram (Figure 1.1 & Figure 3.1).
