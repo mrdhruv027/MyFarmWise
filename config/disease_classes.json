@@ -1,0 +1,344 @@
+{
+  "Apple___Apple_scab": {
+    "id": 0,
+    "crop": "Apple",
+    "condition": "Apple scab",
+    "is_healthy": false,
+    "display_name": "Apple - Apple scab",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Apple___Black_rot": {
+    "id": 1,
+    "crop": "Apple",
+    "condition": "Black rot",
+    "is_healthy": false,
+    "display_name": "Apple - Black rot",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Apple___Cedar_apple_rust": {
+    "id": 2,
+    "crop": "Apple",
+    "condition": "Cedar apple rust",
+    "is_healthy": false,
+    "display_name": "Apple - Cedar apple rust",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Apple___healthy": {
+    "id": 3,
+    "crop": "Apple",
+    "condition": "healthy",
+    "is_healthy": true,
+    "display_name": "Apple - healthy",
+    "category": "Healthy Foliage",
+    "severity_risk": "None"
+  },
+  "Blueberry___healthy": {
+    "id": 4,
+    "crop": "Blueberry",
+    "condition": "healthy",
+    "is_healthy": true,
+    "display_name": "Blueberry - healthy",
+    "category": "Healthy Foliage",
+    "severity_risk": "None"
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "id": 5,
+    "crop": "Cherry (including sour)",
+    "condition": "Powdery mildew",
+    "is_healthy": false,
+    "display_name": "Cherry (including sour) - Powdery mildew",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Cherry_(including_sour)___healthy": {
+    "id": 6,
+    "crop": "Cherry (including sour)",
+    "condition": "healthy",
+    "is_healthy": true,
+    "display_name": "Cherry (including sour) - healthy",
+    "category": "Healthy Foliage",
+    "severity_risk": "None"
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "id": 7,
+    "crop": "Corn (maize)",
+    "condition": "Cercospora leaf spot Gray leaf spot",
+    "is_healthy": false,
+    "display_name": "Corn (maize) - Cercospora leaf spot Gray leaf spot",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Corn_(maize)___Common_rust_": {
+    "id": 8,
+    "crop": "Corn (maize)",
+    "condition": "Common rust ",
+    "is_healthy": false,
+    "display_name": "Corn (maize) - Common rust ",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "id": 9,
+    "crop": "Corn (maize)",
+    "condition": "Northern Leaf Blight",
+    "is_healthy": false,
+    "display_name": "Corn (maize) - Northern Leaf Blight",
+    "category": "Pathological Infection",
+    "severity_risk": "High"
+  },
+  "Corn_(maize)___healthy": {
+    "id": 10,
+    "crop": "Corn (maize)",
+    "condition": "healthy",
+    "is_healthy": true,
+    "display_name": "Corn (maize) - healthy",
+    "category": "Healthy Foliage",
+    "severity_risk": "None"
+  },
+  "Grape___Black_rot": {
+    "id": 11,
+    "crop": "Grape",
+    "condition": "Black rot",
+    "is_healthy": false,
+    "display_name": "Grape - Black rot",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "id": 12,
+    "crop": "Grape",
+    "condition": "Esca (Black Measles)",
+    "is_healthy": false,
+    "display_name": "Grape - Esca (Black Measles)",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "id": 13,
+    "crop": "Grape",
+    "condition": "Leaf blight (Isariopsis Leaf Spot)",
+    "is_healthy": false,
+    "display_name": "Grape - Leaf blight (Isariopsis Leaf Spot)",
+    "category": "Pathological Infection",
+    "severity_risk": "High"
+  },
+  "Grape___healthy": {
+    "id": 14,
+    "crop": "Grape",
+    "condition": "healthy",
+    "is_healthy": true,
+    "display_name": "Grape - healthy",
+    "category": "Healthy Foliage",
+    "severity_risk": "None"
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "id": 15,
+    "crop": "Orange",
+    "condition": "Haunglongbing (Citrus greening)",
+    "is_healthy": false,
+    "display_name": "Orange - Haunglongbing (Citrus greening)",
+    "category": "Pathological Infection",
+    "severity_risk": "High"
+  },
+  "Peach___Bacterial_spot": {
+    "id": 16,
+    "crop": "Peach",
+    "condition": "Bacterial spot",
+    "is_healthy": false,
+    "display_name": "Peach - Bacterial spot",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Peach___healthy": {
+    "id": 17,
+    "crop": "Peach",
+    "condition": "healthy",
+    "is_healthy": true,
+    "display_name": "Peach - healthy",
+    "category": "Healthy Foliage",
+    "severity_risk": "None"
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "id": 18,
+    "crop": "Pepper, bell",
+    "condition": "Bacterial spot",
+    "is_healthy": false,
+    "display_name": "Pepper, bell - Bacterial spot",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Pepper,_bell___healthy": {
+    "id": 19,
+    "crop": "Pepper, bell",
+    "condition": "healthy",
+    "is_healthy": true,
+    "display_name": "Pepper, bell - healthy",
+    "category": "Healthy Foliage",
+    "severity_risk": "None"
+  },
+  "Potato___Early_blight": {
+    "id": 20,
+    "crop": "Potato",
+    "condition": "Early blight",
+    "is_healthy": false,
+    "display_name": "Potato - Early blight",
+    "category": "Pathological Infection",
+    "severity_risk": "High"
+  },
+  "Potato___Late_blight": {
+    "id": 21,
+    "crop": "Potato",
+    "condition": "Late blight",
+    "is_healthy": false,
+    "display_name": "Potato - Late blight",
+    "category": "Pathological Infection",
+    "severity_risk": "High"
+  },
+  "Potato___healthy": {
+    "id": 22,
+    "crop": "Potato",
+    "condition": "healthy",
+    "is_healthy": true,
+    "display_name": "Potato - healthy",
+    "category": "Healthy Foliage",
+    "severity_risk": "None"
+  },
+  "Raspberry___healthy": {
+    "id": 23,
+    "crop": "Raspberry",
+    "condition": "healthy",
+    "is_healthy": true,
+    "display_name": "Raspberry - healthy",
+    "category": "Healthy Foliage",
+    "severity_risk": "None"
+  },
+  "Soybean___healthy": {
+    "id": 24,
+    "crop": "Soybean",
+    "condition": "healthy",
+    "is_healthy": true,
+    "display_name": "Soybean - healthy",
+    "category": "Healthy Foliage",
+    "severity_risk": "None"
+  },
+  "Squash___Powdery_mildew": {
+    "id": 25,
+    "crop": "Squash",
+    "condition": "Powdery mildew",
+    "is_healthy": false,
+    "display_name": "Squash - Powdery mildew",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Strawberry___Leaf_scorch": {
+    "id": 26,
+    "crop": "Strawberry",
+    "condition": "Leaf scorch",
+    "is_healthy": false,
+    "display_name": "Strawberry - Leaf scorch",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Strawberry___healthy": {
+    "id": 27,
+    "crop": "Strawberry",
+    "condition": "healthy",
+    "is_healthy": true,
+    "display_name": "Strawberry - healthy",
+    "category": "Healthy Foliage",
+    "severity_risk": "None"
+  },
+  "Tomato___Bacterial_spot": {
+    "id": 28,
+    "crop": "Tomato",
+    "condition": "Bacterial spot",
+    "is_healthy": false,
+    "display_name": "Tomato - Bacterial spot",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Tomato___Early_blight": {
+    "id": 29,
+    "crop": "Tomato",
+    "condition": "Early blight",
+    "is_healthy": false,
+    "display_name": "Tomato - Early blight",
+    "category": "Pathological Infection",
+    "severity_risk": "High"
+  },
+  "Tomato___Late_blight": {
+    "id": 30,
+    "crop": "Tomato",
+    "condition": "Late blight",
+    "is_healthy": false,
+    "display_name": "Tomato - Late blight",
+    "category": "Pathological Infection",
+    "severity_risk": "High"
+  },
+  "Tomato___Leaf_Mold": {
+    "id": 31,
+    "crop": "Tomato",
+    "condition": "Leaf Mold",
+    "is_healthy": false,
+    "display_name": "Tomato - Leaf Mold",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "id": 32,
+    "crop": "Tomato",
+    "condition": "Septoria leaf spot",
+    "is_healthy": false,
+    "display_name": "Tomato - Septoria leaf spot",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "id": 33,
+    "crop": "Tomato",
+    "condition": "Spider mites Two-spotted spider mite",
+    "is_healthy": false,
+    "display_name": "Tomato - Spider mites Two-spotted spider mite",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Tomato___Target_Spot": {
+    "id": 34,
+    "crop": "Tomato",
+    "condition": "Target Spot",
+    "is_healthy": false,
+    "display_name": "Tomato - Target Spot",
+    "category": "Pathological Infection",
+    "severity_risk": "Moderate"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "id": 35,
+    "crop": "Tomato",
+    "condition": "Tomato Yellow Leaf Curl Virus",
+    "is_healthy": false,
+    "display_name": "Tomato - Tomato Yellow Leaf Curl Virus",
+    "category": "Pathological Infection",
+    "severity_risk": "High"
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "id": 36,
+    "crop": "Tomato",
+    "condition": "Tomato mosaic virus",
+    "is_healthy": false,
+    "display_name": "Tomato - Tomato mosaic virus",
+    "category": "Pathological Infection",
+    "severity_risk": "High"
+  },
+  "Tomato___healthy": {
+    "id": 37,
+    "crop": "Tomato",
+    "condition": "healthy",
+    "is_healthy": true,
+    "display_name": "Tomato - healthy",
+    "category": "Healthy Foliage",
+    "severity_risk": "None"
+  }
+}
